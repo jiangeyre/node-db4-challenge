@@ -25,4 +25,4 @@ exports.seed = function(knex, Promise) {
     { id: 6, step_number: 1, recipe_id: 3, instructions: 'Roast meat' },
     { id: 7, step_number: 2, recipe_id: 3, instructions: 'Broil meat' }
   ])
-}
+};

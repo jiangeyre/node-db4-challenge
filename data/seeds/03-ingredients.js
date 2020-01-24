@@ -20,6 +20,6 @@ exports.seed = function(knex, Promise) {
     { id: 3, name: 'Garlic'},
     { id: 4, name: 'Lasagne'},
     { id: 5, name: 'Tomatoes'},
-    { id: 6, name: 'Meat'}
+    { id: 6, name: 'Meat of a Child'}
   ])
-}
+};
